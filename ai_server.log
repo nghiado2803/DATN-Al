@@ -1,0 +1,284 @@
+2026-05-25 00:14:35,988 - INFO - --- KHOI DONG AI SERVER ---
+2026-05-25 00:15:24,804 - INFO - --- KHOI DONG AI SERVER ---
+2026-05-25 00:15:25,826 - INFO - --- START AI SERVER: http://127.0.0.1:8000 ---
+2026-05-25 00:16:29,559 - INFO - --- KHOI DONG AI SERVER ---
+2026-05-25 00:16:30,734 - INFO - --- START AI SERVER: http://0.0.0.0:8000 ---
+2026-05-25 00:17:23,760 - INFO - --- KHOI DONG AI SERVER ---
+2026-05-25 00:17:25,110 - INFO - --- START AI SERVER: http://0.0.0.0:8000 ---
+2026-05-25 00:19:10,051 - INFO - --- KHOI DONG AI SERVER ---
+2026-05-25 00:19:10,820 - INFO - --- START AI SERVER: http://0.0.0.0:8000 ---
+2026-05-25 00:20:57,110 - INFO - --- [INFO] DANG NAP MODELS (LAZY LOADING)... ---
+2026-05-25 00:23:12,698 - INFO - --- SYSTEM RESTART: ATTEMPTING STABLE LOAD ---
+2026-05-25 00:23:40,295 - INFO - --- SYSTEM RESTART: ATTEMPTING STABLE LOAD ---
+2026-05-25 00:23:41,405 - INFO - --- [INFO] AI Server starting on http://127.0.0.1:8000 ---
+2026-05-25 00:26:20,334 - INFO - Models not initialized. Initializing now...
+2026-05-25 00:26:20,349 - INFO - Step 1: Loading Numpy & CV2...
+2026-05-25 00:28:04,399 - INFO - --- SYSTEM RESTART: ATTEMPTING STABLE LOAD ---
+2026-05-25 00:28:04,400 - INFO - Loading Numpy...
+2026-05-25 00:28:30,281 - INFO - --- SYSTEM RESTART: ATTEMPTING STABLE LOAD ---
+2026-05-25 00:28:30,282 - INFO - Loading Numpy...
+2026-05-25 00:29:14,340 - INFO - --- SYSTEM RESTART: ATTEMPTING STABLE LOAD ---
+2026-05-25 00:29:14,341 - INFO - Loading Numpy...
+2026-05-25 00:29:14,544 - INFO - Numpy loaded.
+2026-05-25 00:29:14,544 - INFO - Loading CV2...
+2026-05-25 00:30:35,434 - INFO - --- SYSTEM RESTART: ATTEMPTING STABLE LOAD ---
+2026-05-25 00:30:35,434 - INFO - Loading Numpy...
+2026-05-25 00:30:35,660 - INFO - Numpy loaded.
+2026-05-25 00:30:35,660 - INFO - Loading CV2...
+2026-05-25 00:30:35,699 - INFO - CV2 loaded.
+2026-05-25 00:30:35,699 - INFO - Loading Ultralytics...
+2026-05-25 00:31:57,914 - INFO - Ultralytics loaded.
+2026-05-25 00:31:57,914 - INFO - Loading EasyOCR...
+2026-05-25 00:32:06,641 - INFO - EasyOCR loaded.
+2026-05-25 00:32:07,760 - INFO - --- [INFO] AI Server starting on http://127.0.0.1:8000 ---
+2026-05-25 00:33:12,036 - INFO - --- SYSTEM RESTART: ATTEMPTING STABLE LOAD ---
+2026-05-25 00:33:12,036 - INFO - Loading Numpy...
+2026-05-25 00:33:12,267 - INFO - Numpy loaded.
+2026-05-25 00:33:12,267 - INFO - Loading CV2...
+2026-05-25 00:33:12,347 - INFO - CV2 loaded.
+2026-05-25 00:33:12,347 - INFO - Loading Ultralytics...
+2026-05-25 00:33:21,811 - INFO - Ultralytics loaded.
+2026-05-25 00:33:21,811 - INFO - Loading EasyOCR...
+2026-05-25 00:33:22,817 - INFO - EasyOCR loaded.
+2026-05-25 00:33:23,811 - INFO - --- [INFO] AI Server starting on http://127.0.0.1:8000 ---
+2026-05-25 00:33:48,385 - INFO - --- SYSTEM RESTART: ATTEMPTING STABLE LOAD ---
+2026-05-25 00:33:48,386 - INFO - Loading Numpy...
+2026-05-25 00:33:48,581 - INFO - Numpy loaded.
+2026-05-25 00:33:48,581 - INFO - Loading CV2...
+2026-05-25 00:33:48,630 - INFO - CV2 loaded.
+2026-05-25 00:33:48,630 - INFO - Loading Ultralytics...
+2026-05-25 00:34:07,692 - INFO - Ultralytics loaded.
+2026-05-25 00:34:07,693 - INFO - Loading EasyOCR...
+2026-05-25 00:34:10,601 - INFO - EasyOCR loaded.
+2026-05-25 00:34:12,509 - INFO - Initializing YOLO model...
+2026-05-25 00:34:36,078 - ERROR - INITIALIZATION ERROR: No module named 'dill'
+2026-05-25 00:37:12,284 - INFO - --- SYSTEM RESTART: ATTEMPTING STABLE LOAD ---
+2026-05-25 00:37:12,285 - INFO - Loading Numpy...
+2026-05-25 00:37:12,529 - INFO - Numpy loaded.
+2026-05-25 00:37:12,529 - INFO - Loading CV2...
+2026-05-25 00:37:12,610 - INFO - CV2 loaded.
+2026-05-25 00:37:12,610 - INFO - Loading Ultralytics...
+2026-05-25 00:37:34,159 - INFO - Ultralytics loaded.
+2026-05-25 00:37:34,159 - INFO - Loading EasyOCR...
+2026-05-25 00:37:35,851 - INFO - EasyOCR loaded.
+2026-05-25 00:37:37,301 - INFO - --- [INFO] AI Server starting on http://127.0.0.1:8000 ---
+2026-05-25 00:38:20,580 - INFO - --- SYSTEM RESTART: ATTEMPTING STABLE LOAD ---
+2026-05-25 00:38:20,581 - INFO - Loading Numpy...
+2026-05-25 00:38:20,751 - INFO - Numpy version: 2.4.6
+2026-05-25 00:38:20,751 - INFO - Loading CV2...
+2026-05-25 00:38:20,785 - INFO - CV2 version: 4.13.0
+2026-05-25 00:38:20,785 - INFO - Loading Ultralytics...
+2026-05-25 00:38:32,368 - INFO - Ultralytics loaded.
+2026-05-25 00:38:32,369 - INFO - Loading EasyOCR...
+2026-05-25 00:38:33,648 - INFO - EasyOCR loaded.
+2026-05-25 00:38:34,501 - INFO - --- [INFO] AI Server starting on http://127.0.0.1:8000 ---
+2026-05-25 00:41:09,161 - INFO - Models not initialized. Initializing now...
+2026-05-25 00:41:09,177 - INFO - Initializing YOLO model...
+2026-05-25 00:41:46,342 - ERROR - INITIALIZATION ERROR: No module named 'dill'
+2026-05-25 00:43:49,873 - INFO - --- SYSTEM RESTART: ATTEMPTING STABLE LOAD ---
+2026-05-25 00:43:49,874 - INFO - Loading Numpy...
+2026-05-25 00:43:50,233 - INFO - Numpy version: 2.4.6
+2026-05-25 00:43:50,233 - INFO - Loading CV2...
+2026-05-25 00:43:50,369 - INFO - CV2 version: 4.13.0
+2026-05-25 00:43:50,369 - INFO - Loading Ultralytics...
+2026-05-25 00:43:59,232 - INFO - Ultralytics loaded.
+2026-05-25 00:43:59,232 - INFO - Loading EasyOCR...
+2026-05-25 00:44:00,509 - INFO - EasyOCR loaded.
+2026-05-25 00:44:01,463 - INFO - --- [INFO] AI Server starting on http://127.0.0.1:8000 ---
+2026-05-25 00:44:24,292 - INFO - Models not initialized. Initializing now...
+2026-05-25 00:44:24,299 - INFO - Initializing YOLO model...
+2026-05-25 00:44:24,777 - INFO - Loaded plate_yolov8n_320_2024.pt
+2026-05-25 00:44:24,777 - INFO - Initializing EasyOCR reader...
+2026-05-25 00:44:24,781 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-05-25 00:44:30,706 - INFO - EasyOCR reader initialized.
+2026-05-25 00:44:30,720 - ERROR - RUNTIME ERROR: Invalid base64-encoded string: number of data characters (5) cannot be 1 more than a multiple of 4
+2026-05-25 00:46:30,136 - INFO - RESULT: 29T-820.43
+2026-05-25 00:46:42,653 - INFO - RESULT: 29T-820.43
+2026-05-25 00:46:56,174 - INFO - RESULT: 29TE-2043
+2026-05-25 00:49:25,926 - INFO - RESULT: 29T-820.43
+2026-05-25 00:53:01,649 - INFO - RESULT: 29T-820.43
+2026-05-25 00:55:00,333 - INFO - RESULT: 29T-832.04
+2026-05-25 00:55:19,392 - INFO - RESULT: 619-7022
+2026-05-25 00:55:35,628 - INFO - RESULT: 30G-702.27
+2026-05-25 00:55:58,606 - INFO - RESULT: 999-9936
+2026-05-25 01:02:36,032 - INFO - --- UPGRADING ENGINE TO PADDLEOCR ---
+2026-05-25 01:02:36,817 - INFO - --- [INFO] AI Server (PaddleOCR) starting on http://127.0.0.1:8000 ---
+2026-05-25 01:04:16,058 - INFO - YOLO OK: plate_yolov8n_320_2024.pt
+2026-05-25 01:04:16,060 - ERROR - INITIALIZATION ERROR: No module named 'paddleocr'
+2026-05-25 01:06:40,881 - INFO - --- SYSTEM RESTART: OPTIMIZING EASYOCR ENGINE ---
+2026-05-25 01:06:41,521 - INFO - --- [INFO] AI Server (EasyOCR Optimized) starting on http://127.0.0.1:8000 ---
+2026-05-25 01:08:11,992 - INFO - YOLO OK: plate_yolov8n_320_2024.pt
+2026-05-25 01:08:11,995 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-05-25 01:08:15,277 - INFO - EASYOCR OK: Engine da san sang
+2026-05-25 01:08:16,592 - INFO - RESULT: 36A-999.99
+2026-05-25 01:08:50,301 - INFO - RESULT: 60A-202.04
+2026-05-25 01:09:12,129 - INFO - RESULT: 30G-702.27
+2026-05-25 01:09:27,061 - INFO - RESULT: 61F-970.22
+2026-05-25 01:09:43,540 - INFO - RESULT: 61F-970.22
+2026-05-25 01:09:55,870 - INFO - RESULT: 29TE-2043
+2026-05-25 01:10:10,213 - INFO - RESULT: 29T-820.43
+2026-05-25 01:10:31,797 - INFO - RESULT: 61E-970.22
+2026-05-25 01:12:20,751 - INFO - --- SYSTEM RESTART: ADVANCED LPR ENGINE ---
+2026-05-25 01:12:21,329 - INFO - --- [START] AI Server (Advanced VN LPR) at http://127.0.0.1:8000 ---
+2026-05-25 01:13:27,994 - INFO - YOLO OK: plate_yolov8n_320_2024.pt
+2026-05-25 01:13:27,996 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-05-25 01:13:30,571 - INFO - EASYOCR OK: Engine da san sang
+2026-05-25 01:13:31,396 - INFO - --- [OK] PLATE DETECTED: 29TE-2843 ---
+2026-05-25 01:13:54,345 - INFO - --- [OK] PLATE DETECTED: 619-7022 ---
+2026-05-25 01:14:11,978 - INFO - --- [OK] PLATE DETECTED: 30G-702.27 ---
+2026-05-25 01:14:23,359 - INFO - --- [OK] PLATE DETECTED: 36A-999.99 ---
+2026-05-25 01:16:26,539 - INFO - --- [OK] PLATE DETECTED: 50AA-379.79 ---
+2026-05-25 01:16:44,711 - INFO - --- [OK] PLATE DETECTED: 12BI-168.88 ---
+2026-05-25 01:16:54,277 - INFO - --- [OK] PLATE DETECTED: 12BI-186.88 ---
+2026-05-25 01:18:01,675 - INFO - --- [OK] PLATE DETECTED: 99H-720.60 ---
+2026-05-25 01:18:12,671 - INFO - --- [OK] PLATE DETECTED: 99H-720.60 ---
+2026-05-25 01:19:42,265 - INFO - --- [OK] PLATE DETECTED: 99H-720.60 ---
+2026-05-25 01:19:53,659 - INFO - --- [OK] PLATE DETECTED: 99H-720.60 ---
+2026-05-25 01:21:07,333 - INFO - --- SYSTEM RESTART: ADVANCED LPR ENGINE ---
+2026-05-25 01:21:08,071 - INFO - --- [START] AI Server (Advanced VN LPR) at http://127.0.0.1:8000 ---
+2026-05-25 01:22:27,734 - INFO - YOLO OK: plate_yolov8n_320_2024.pt
+2026-05-25 01:22:27,737 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-05-25 01:22:30,321 - INFO - EASYOCR OK: Engine da san sang
+2026-05-25 01:22:31,430 - INFO - --- [OK] PLATE DETECTED: 99H7-7060 ---
+2026-05-25 01:22:43,789 - INFO - --- [OK] PLATE DETECTED: 12BI-168.88 ---
+2026-05-25 01:22:55,112 - INFO - --- [OK] PLATE DETECTED: 12BI-168.88 ---
+2026-05-25 01:24:00,177 - INFO - --- SYSTEM RESTART: ADVANCED LPR ENGINE ---
+2026-05-25 01:24:00,709 - INFO - --- [START] AI Server (Advanced VN LPR) at http://127.0.0.1:8000 ---
+2026-05-25 01:24:44,519 - INFO - YOLO OK: plate_yolov8n_320_2024.pt
+2026-05-25 01:24:44,521 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-05-25 01:24:47,020 - INFO - EASYOCR OK: Engine da san sang
+2026-05-25 01:24:47,943 - INFO - --- [OK] PLATE DETECTED: 12BI-168.88 ---
+2026-05-25 01:24:59,575 - INFO - --- [OK] PLATE DETECTED: 12BI-168.88 ---
+2026-05-25 01:25:14,079 - INFO - --- [OK] PLATE DETECTED: 50AA-379.79 ---
+2026-05-25 01:25:24,312 - INFO - --- [OK] PLATE DETECTED: 99HH-720.60 ---
+2026-05-25 01:25:34,150 - INFO - --- [OK] PLATE DETECTED: 99H7-7060 ---
+2026-05-25 01:25:41,582 - INFO - --- [OK] PLATE DETECTED: 99H7-7060 ---
+2026-05-25 01:25:52,891 - INFO - --- [OK] PLATE DETECTED: 12BI-168.88 ---
+2026-05-25 01:28:02,453 - INFO - --- SYSTEM RESTART: ADVANCED LPR ENGINE ---
+2026-05-25 01:28:02,951 - INFO - --- [START] AI Server (Advanced VN LPR) at http://127.0.0.1:8000 ---
+2026-05-25 01:29:06,418 - INFO - YOLO OK: plate_yolov8n_320_2024.pt
+2026-05-25 01:29:06,420 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-05-25 01:29:09,003 - INFO - EASYOCR OK: Engine da san sang
+2026-05-25 01:29:09,899 - INFO - --- [OK] PLATE DETECTED: 12B1-168.88 ---
+2026-05-25 01:29:22,432 - INFO - --- [OK] PLATE DETECTED: 50AA-379.79 ---
+2026-05-25 01:29:31,492 - INFO - --- [OK] PLATE DETECTED: 99H-720.60 ---
+2026-05-25 01:29:38,359 - INFO - --- [OK] PLATE DETECTED: 99H-720.60 ---
+2026-05-25 01:29:44,832 - INFO - --- [OK] PLATE DETECTED: 99H-720.60 ---
+2026-05-25 01:29:51,413 - INFO - --- [OK] PLATE DETECTED: 99H-720.60 ---
+2026-05-25 01:29:57,149 - INFO - --- [OK] PLATE DETECTED: 99H-720.60 ---
+2026-05-25 01:31:00,980 - INFO - --- [OK] PLATE DETECTED: 29T-820.43 ---
+2026-05-25 01:31:24,171 - INFO - --- [OK] PLATE DETECTED: 61F-970.22 ---
+2026-05-25 01:31:45,795 - INFO - --- [OK] PLATE DETECTED: 30G-702.27 ---
+2026-05-25 01:32:23,216 - INFO - --- [OK] PLATE DETECTED: 99H-720.60 ---
+2026-05-25 01:32:31,833 - INFO - --- [OK] PLATE DETECTED: 99H-720.60 ---
+2026-05-25 01:32:43,961 - INFO - --- [OK] PLATE DETECTED: 99H-720.60 ---
+2026-05-25 01:33:46,681 - INFO - --- SYSTEM RESTART: ADVANCED LPR ENGINE ---
+2026-05-25 01:33:47,586 - INFO - --- [START] AI Server (Advanced VN LPR) at http://127.0.0.1:8000 ---
+2026-05-25 01:34:27,364 - INFO - YOLO OK: plate_yolov8n_320_2024.pt
+2026-05-25 01:34:27,366 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-05-25 01:34:29,901 - INFO - EASYOCR OK: Engine da san sang
+2026-05-25 01:34:30,975 - INFO - --- [OK] PLATE DETECTED: 99H7-7060 ---
+2026-05-25 01:34:44,104 - INFO - --- [OK] PLATE DETECTED: 50AA-379.79 ---
+2026-05-25 01:34:57,103 - INFO - --- [OK] PLATE DETECTED: 12B1-168.88 ---
+2026-05-25 01:35:09,779 - INFO - --- [OK] PLATE DETECTED: 29T-820.43 ---
+2026-05-25 01:35:23,354 - INFO - --- [OK] PLATE DETECTED: 81F-970.22 ---
+2026-05-25 01:35:41,170 - INFO - --- [OK] PLATE DETECTED: 30G-702.27 ---
+2026-05-25 01:35:49,463 - INFO - --- [OK] PLATE DETECTED: 36A-999.99 ---
+2026-05-25 01:36:00,684 - INFO - --- [OK] PLATE DETECTED: 60A-202.04 ---
+2026-05-25 01:36:16,459 - INFO - --- [OK] PLATE DETECTED: 29T-820.43 ---
+2026-05-25 01:37:21,568 - INFO - --- SYSTEM RESTART: ADVANCED LPR ENGINE ---
+2026-05-25 01:37:22,127 - INFO - --- [START] AI Server (Advanced VN LPR) at http://127.0.0.1:8000 ---
+2026-05-25 01:38:13,211 - INFO - YOLO OK: plate_yolov8n_320_2024.pt
+2026-05-25 01:38:13,213 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-05-25 01:38:15,689 - INFO - EASYOCR OK: Engine da san sang
+2026-05-25 01:38:16,521 - INFO - --- [OK] PLATE DETECTED: 29T8-2843 ---
+2026-05-25 01:38:40,263 - INFO - --- [OK] PLATE DETECTED: 12B1-168.88 ---
+2026-05-25 01:38:58,825 - INFO - --- [OK] PLATE DETECTED: 61F-970.22 ---
+2026-05-25 01:39:48,896 - INFO - --- SYSTEM RESTART: ADVANCED LPR ENGINE ---
+2026-05-25 01:39:49,454 - INFO - --- [START] AI Server (Advanced VN LPR) at http://127.0.0.1:8000 ---
+2026-05-25 01:40:15,680 - INFO - YOLO OK: plate_yolov8n_320_2024.pt
+2026-05-25 01:40:15,683 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-05-25 01:40:18,279 - INFO - EASYOCR OK: Engine da san sang
+2026-05-25 01:40:19,074 - INFO - --- [OK] PLATE DETECTED: 51F-970.22 ---
+2026-05-25 01:40:34,519 - INFO - --- [OK] PLATE DETECTED: 51F-970.22 ---
+2026-05-25 01:42:34,329 - INFO - --- SYSTEM RESTART: ADVANCED LPR ENGINE ---
+2026-05-25 01:42:34,893 - INFO - --- [START] AI Server (Advanced VN LPR) at http://127.0.0.1:8000 ---
+2026-05-25 01:44:54,359 - INFO - YOLO OK: plate_yolov8n_320_2024.pt
+2026-05-25 01:44:54,361 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-05-25 01:44:56,898 - INFO - EASYOCR OK: Engine da san sang
+2026-05-25 01:44:57,964 - INFO - --- [OK] PLATE DETECTED: 60G-388.38 ---
+2026-05-25 01:45:08,349 - INFO - --- [OK] PLATE DETECTED: 99H7-7060 ---
+2026-05-25 01:45:22,889 - INFO - --- [OK] PLATE DETECTED: 50AA-379.79 ---
+2026-05-25 09:26:05,720 - INFO - --- SYSTEM RESTART: ADVANCED LPR ENGINE ---
+2026-05-25 09:26:07,437 - INFO - --- [START] AI Server (Advanced VN LPR) at http://127.0.0.1:8000 ---
+2026-05-25 12:19:38,016 - INFO - YOLO OK: plate_yolov8n_320_2024.pt
+2026-05-25 12:19:38,019 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-05-25 12:19:40,674 - INFO - EASYOCR OK: Engine da san sang
+2026-05-27 08:03:58,290 - INFO - --- SYSTEM RESTART: ADVANCED LPR ENGINE ---
+2026-05-27 08:04:01,752 - INFO - --- [START] AI Server (Advanced VN LPR) at http://127.0.0.1:8000 ---
+2026-06-01 08:08:09,610 - INFO - --- SYSTEM RESTART: ADVANCED LPR ENGINE ---
+2026-06-01 08:08:10,926 - INFO - --- [START] AI Server (Advanced VN LPR) at http://127.0.0.1:8000 ---
+2026-06-01 08:09:53,361 - INFO - --- SYSTEM RESTART: ADVANCED LPR ENGINE ---
+2026-06-01 08:09:53,978 - INFO - --- [START] AI Server (Advanced VN LPR) at http://127.0.0.1:8000 ---
+2026-06-01 09:14:17,080 - INFO - YOLO OK: plate_yolov8n_320_2024.pt
+2026-06-01 09:14:17,082 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-06-01 09:14:19,605 - INFO - EASYOCR OK: Engine da san sang
+2026-06-01 15:27:07,151 - INFO - --- SYSTEM RESTART: ADVANCED LPR ENGINE ---
+2026-06-01 15:27:08,342 - INFO - --- [START] AI Server (Advanced VN LPR) at http://127.0.0.1:8000 ---
+2026-06-01 16:05:09,866 - INFO - YOLO OK: plate_yolov8n_320_2024.pt
+2026-06-01 16:05:09,868 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-06-01 16:05:12,399 - INFO - EASYOCR OK: Engine da san sang
+2026-06-01 17:16:57,377 - ERROR - RUNTIME ERROR: OpenCV(4.13.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:1310: error: (-215:Assertion failed) !buf.empty() in function 'cv::imdecode_'
+
+2026-06-01 17:24:12,880 - ERROR - RUNTIME ERROR: OpenCV(4.13.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:1310: error: (-215:Assertion failed) !buf.empty() in function 'cv::imdecode_'
+
+2026-06-01 17:28:34,355 - ERROR - RUNTIME ERROR: OpenCV(4.13.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:1310: error: (-215:Assertion failed) !buf.empty() in function 'cv::imdecode_'
+
+2026-06-01 17:38:13,384 - ERROR - RUNTIME ERROR: OpenCV(4.13.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:1310: error: (-215:Assertion failed) !buf.empty() in function 'cv::imdecode_'
+
+2026-06-01 17:49:11,968 - ERROR - RUNTIME ERROR: OpenCV(4.13.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:1310: error: (-215:Assertion failed) !buf.empty() in function 'cv::imdecode_'
+
+2026-06-01 17:50:10,647 - ERROR - RUNTIME ERROR: OpenCV(4.13.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:1310: error: (-215:Assertion failed) !buf.empty() in function 'cv::imdecode_'
+
+2026-06-01 17:58:33,622 - ERROR - RUNTIME ERROR: OpenCV(4.13.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:1310: error: (-215:Assertion failed) !buf.empty() in function 'cv::imdecode_'
+
+2026-06-01 17:59:08,226 - ERROR - RUNTIME ERROR: OpenCV(4.13.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:1310: error: (-215:Assertion failed) !buf.empty() in function 'cv::imdecode_'
+
+2026-06-01 18:05:12,828 - ERROR - RUNTIME ERROR: OpenCV(4.13.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:1310: error: (-215:Assertion failed) !buf.empty() in function 'cv::imdecode_'
+
+2026-06-01 18:09:55,878 - ERROR - RUNTIME ERROR: OpenCV(4.13.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:1310: error: (-215:Assertion failed) !buf.empty() in function 'cv::imdecode_'
+
+2026-06-01 18:27:50,228 - ERROR - RUNTIME ERROR: OpenCV(4.13.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:1310: error: (-215:Assertion failed) !buf.empty() in function 'cv::imdecode_'
+
+2026-06-01 18:28:57,583 - ERROR - RUNTIME ERROR: OpenCV(4.13.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:1310: error: (-215:Assertion failed) !buf.empty() in function 'cv::imdecode_'
+
+2026-06-01 18:34:33,443 - ERROR - RUNTIME ERROR: OpenCV(4.13.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:1310: error: (-215:Assertion failed) !buf.empty() in function 'cv::imdecode_'
+
+2026-06-01 18:35:09,075 - ERROR - RUNTIME ERROR: OpenCV(4.13.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:1310: error: (-215:Assertion failed) !buf.empty() in function 'cv::imdecode_'
+
+2026-06-01 18:38:13,398 - ERROR - RUNTIME ERROR: OpenCV(4.13.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:1310: error: (-215:Assertion failed) !buf.empty() in function 'cv::imdecode_'
+
+2026-06-01 20:17:10,561 - ERROR - RUNTIME ERROR: OpenCV(4.13.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:1310: error: (-215:Assertion failed) !buf.empty() in function 'cv::imdecode_'
+
+2026-06-01 20:17:40,091 - ERROR - RUNTIME ERROR: OpenCV(4.13.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:1310: error: (-215:Assertion failed) !buf.empty() in function 'cv::imdecode_'
+
+2026-06-02 14:08:31,008 - INFO - --- SYSTEM RESTART: ADVANCED LPR ENGINE ---
+2026-06-02 14:08:32,012 - INFO - --- [START] AI Server (Advanced VN LPR) at http://127.0.0.1:8000 ---
+2026-06-02 14:15:46,348 - INFO - YOLO OK: plate_yolov8n_320_2024.pt
+2026-06-02 14:15:46,350 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-06-02 14:15:48,857 - INFO - EASYOCR OK: Engine da san sang
+2026-06-02 14:27:43,983 - INFO - --- [OK] PLATE DETECTED: 36A-999.99 ---
+2026-06-02 14:29:38,564 - INFO - --- [OK] PLATE DETECTED: 36A-999.99 ---
+2026-06-02 14:30:34,996 - INFO - --- [OK] PLATE DETECTED: 30G-702.27 ---
+2026-06-02 14:33:38,253 - INFO - --- [OK] PLATE DETECTED: 30G-702.27 ---
+2026-06-02 14:35:46,153 - INFO - --- [OK] PLATE DETECTED: 30G-702.27 ---
+2026-06-02 15:19:31,886 - INFO - --- [OK] PLATE DETECTED: 36I-999.99 ---
+2026-06-02 15:32:50,875 - INFO - --- [OK] PLATE DETECTED: 30G-702.27 ---
+2026-06-02 15:33:01,200 - INFO - --- [OK] PLATE DETECTED: 30G-702.27 ---
+2026-06-02 15:42:59,680 - INFO - --- [OK] PLATE DETECTED: 30G-702.27 ---
+2026-06-02 15:43:28,458 - INFO - --- [OK] PLATE DETECTED: 30G-702.27 ---
+2026-06-02 21:20:09,762 - INFO - --- SYSTEM RESTART: ADVANCED LPR ENGINE ---
+2026-06-02 21:20:10,937 - INFO - --- [START] AI Server (Advanced VN LPR) at http://127.0.0.1:8000 ---
+2026-06-02 21:29:20,255 - INFO - YOLO OK: plate_yolov8n_320_2024.pt
+2026-06-02 21:29:20,257 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-06-02 21:29:22,898 - INFO - EASYOCR OK: Engine da san sang
